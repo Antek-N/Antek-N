@@ -4,7 +4,7 @@ Aspiring Data Engineer specializing in **GIS systems**, **ETL pipelines**, and *
 
 ---
 
-### 🛠 Technical Proficiency
+### 🛠 Technical Skills
 
 **Languages & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -31,17 +31,3 @@ Aspiring Data Engineer specializing in **GIS systems**, **ETL pipelines**, and *
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
-
-### 📂 Software Projects
-
-| Project | Description & Key Features | Tech Stack |
-| :--- | :--- | :--- |
-| **[Mapories](https://github.com/Antek-N/Mapories)** | **Full-stack geospatial journal.** Features defense-in-depth security (HTTP-only JWT, rate limiting) and PostGIS bounding-box optimization for high-density data rendering. | `FastAPI` `React` `PostGIS` `Docker` |
-| **[Rail Network Graph](https://github.com/Antek-N/RailNetworkGraph)** | **Railway network analysis tool.** Integrates GTFS & GeoJSON to build time-expanded navigation graphs. Uses KD-Tree algorithms for precise track geometry snapping. | `Python` `NetworkX` `Algorithms` `Pandas` |
-| **[Passes Per Minute](https://github.com/Antek-N/PassesPerMinute)** | **Football metrics analytics.** Multithreaded processing of StatsBomb Open Data to generate pitch visualizations and heatmaps. | `Streamlit` `Multithreading` `Matplotlib` |
-| **[SpeechScan](https://github.com/Antek-N/SpeechScan)** | **Audio transcription suite.** Desktop app with asynchronous architecture (QThread) for non-blocking media downloading and AssemblyAI transcription. | `PyQt5` `AssemblyAI` `Multithreading` |
-| **[DataTransfer](https://github.com/Antek-N/DataTransfer)** | **Cross-platform clipboard tool.** Instant text transfer between Windows (System Tray app) and Android using Cloud Messaging. | `PyQt5` `Java` `Firebase FCM` |
-| **[Notepadark](https://github.com/Antek-N/Notepadark)** | **Minimalist text editor.** Features auto-hiding scrollbars, dynamic zoom, and robust file management with clean UI/UX design. | `Tkinter` `CI/CD` `Pytest` |
-| **[Maze Game](https://github.com/Antek-N/Maze-game)** | **Arcade game engine.** Implements custom collision detection, SQLite-based leaderboards, and user authentication. | `Pygame` `SQLite` `Algorithms` |
-| **[Portfolio Gallery](https://github.com/Antek-N/Portfolio-Gallery)** | **Dynamic dashboard.** Responsive portfolio built with modular component architecture and strict TypeScript typing. | `React` `TypeScript` `Vite` `Tailwind` |
