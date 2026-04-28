@@ -36,20 +36,20 @@ I specialize in merging **Computer Vision** and **GIS** to build high-performanc
 ### 🚀 Key Projects
 
 #### 🏙️ [UrbanQuality-AI](https://github.com/UrbanQuality-AI)
-**Vision AI | GIS | Python**
+**Vision AI | GIS | Python**<br>
 An end-to-end system for objective urban space assessment using **Vision Transformers (DINOv2)**.
 - Developed an automated route planning module for data acquisition based on the **Chinese Postman Problem** algorithm.
 - Built a training engine based on **TrueSkill** rankings and **Optuna** optimization.
 - Automated image data inference
 
 #### 🚆 [RailNetworkGraph](https://github.com/Antek-N/RailNetworkGraph)
-**Python | Geopandas | ETL**
+**Python | Geopandas | ETL**<br>
 Desktop application for rail connection optimization.
 - Implemented **Dijkstra’s algorithm** on time-expanded graphs.
 - Developed a module for calculating ticket prices based on actual track geometry
 
 #### 📍 [Mapories](https://github.com/Antek-N/Mapories)
-**FastAPI | PostGIS | React | Leaflet**
+**FastAPI | PostGIS | React | Leaflet**<br>
 Web application for geolocating memories with focus on privacy and performance.
 - Optimized spatial queries using bounding-box filtering in **PostGIS**.
 - Implemented  JWT authorization with token rotation (HTTP-only cookies) and multi-layered bot protection (reCAPTCHA, Honeypot).
